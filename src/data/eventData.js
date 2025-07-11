@@ -181,7 +181,8 @@ export const eventData = [
   },
   {
     id: 10,
-    title: 'LỄ HỘI VĂN HÓA "NGÀY HỘI DÂN TỘC"',
+    title:
+      "CHUỖI HOẠT ĐỘNG CHI ĐOÀN VUI TRẺ SÁNG TẠO NĂM 2025: HOẠT ĐỘNG “DẤU ẤN LỊCH SỬ - NGÀY VỀ CHIẾN KHU”",
 
     date: "2025-04-20",
     endDate: "2025-04-20",
@@ -193,7 +194,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia LỄ HỘI VĂN HÓA DÂN TỘC. Chi tiết sự kiện:\n- Thời gian: 20/04/2025\n- Địa điểm: Hội trường E\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8K6vQPdK1pMQqHU4X8T7ZvGfh5yBJ8mQIhQ&s",
+      "https://scontent.fsgn21-1.fna.fbcdn.net/v/t39.30808-6/495589707_1235606505241588_5757574094014420243_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHNc8YNMJhU6pNdOZz0c3Fj3I0o5hgrXfDcjSjmGCtd8IYjZepkcY1gkhdLDf0t4JbjkZXsmRv9Di5mgsy_rxtt&_nc_ohc=I2zHdYawiXkQ7kNvwEvnD2t&_nc_oc=AdnhzcyuNXteggU6eSIbDA3qnqe9hxtPj9P22Ge8jDnMjECZYAnEMyLC2jPCFJQMHjrpR1M2OUSPqDZbMQpcFH1K&_nc_zt=23&_nc_ht=scontent.fsgn21-1.fna&_nc_gid=6Tz82DuDiqG9cZ9EEfmWAw&oh=00_AfQXrJGDicF8Gg_Mrnkavt7cnnw4L4U1RjWIZJaD5SahHA&oe=687700C0",
     category: "cultural",
     status: "approved",
     createdBy: "U003", // Đoàn Thanh niên UEL
@@ -201,7 +202,8 @@ export const eventData = [
   // Additional approved events to reach 20+ events
   {
     id: 11,
-    title: 'HỘI THẢO "BLOCKCHAIN VÀ CRYPTOCURRENCY TRONG THỜI ĐẠI SỐ"',
+    title:
+      "CHÍNH THỨC PHÁT ĐỘNG CUỘC THI CHIẾN LƯỢC XUYÊN BIÊN GIỚI XII - SCHALLENGE 2024 VỚI CHỦ ĐỀ: “CHUỖI CUNG ỨNG BỀN VỮNG”",
 
     date: "2024-12-15",
     endDate: "2024-12-15",
@@ -213,14 +215,14 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia HỘI THẢO BLOCKCHAIN VÀ CRYPTOCURRENCY TRONG THỜI ĐẠI SỐ. Chi tiết sự kiện:\n- Thời gian: 15/12/2024\n- Địa điểm: Hội trường F\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXWZyqJbQl7LY5BmVtYwV3n0_8aVh5vMhsw&s",
+      "https://advertisingvietnam.com/cdn-cgi/image/width=1440,height=756,quality=90,fit=cover,format=auto/https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=b212f976-a2d3-4457-acab-3aa3369d1c61",
     category: "academic",
     status: "approved",
     createdBy: "O003",
   },
   {
     id: 12,
-    title: 'GIẢI BÓNG CHUYỀN "UEL VOLLEYBALL CHAMPIONSHIP 2025"',
+    title: 'GIẢI BÓNG CHUYỀN SINH VIÊN TOÀN QUỐC 2023 | THÔNG BÁO GIẢI ĐẤU"',
 
     date: "2025-02-25",
     endDate: "2025-02-25",
@@ -232,7 +234,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia GIẢI BÓNG CHUYỀN UEL VOLLEYBALL CHAMPIONSHIP 2025. Chi tiết sự kiện:\n- Thời gian: 25/02/2025\n- Địa điểm: Sân vận động UEL\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6VU7oL8M1hQ_9QqCjZy3vZ4KxPh7dMvUJA&s",
+      "https://ctsv.ntt.edu.vn/wp-content/uploads/2023/10/393010693_758385062994540_7808959661097804803_n.jpg",
     category: "sport",
     status: "approved",
     createdBy: "O003",
@@ -251,7 +253,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia CUỘC THI NHIẾP ẢNH MOMENT OF UEL. Chi tiết sự kiện:\n- Thời gian: 05/01/2025\n- Địa điểm: Hội trường G\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqk3X8_VmY4t1QNBr5hW6zJ1vK_8RhN2PdRQ&s",
+      "https://dankogroup.com.vn/pic/News/cuoc-thi-_637607569928027490_HasThumb.jpg",
     category: "cultural",
     status: "approved",
     createdBy: "O003",
@@ -270,7 +272,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia WORKSHOP DIGITAL MARKETING TRENDS 2025. Chi tiết sự kiện:\n- Thời gian: 18/01/2025\n- Địa điểm: Hội trường H\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd4qG5xK7pV8_WbNhJ9zL6t2Y_3MhP7QxKw&s",
+      "https://res.cloudinary.com/mtm-agency/image/fetch/f_auto,q_auto/https://themtmagency.com/upload/media/_1290x725_crop_center-center_82_line/2025MarketingTrendsV3.jpg",
     category: "academic",
     status: "approved",
     createdBy: "O003",
@@ -288,8 +290,7 @@ export const eventData = [
       "Chương trình thiện nguyện Warmth for Winter là một sự kiện để đội tình nguyện UEL tập hợp và phân phối quà tặng cho các bạn nghèo vào mùa đông. Các hoạt động bao gồm: tặng quà, khám bệnh miễn phí, và các hoạt động thiện nguyện khác.",
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia CHƯƠNG TRÌNH THIỆN NGUYỆN WARMTH FOR WINTER. Chi tiết sự kiện:\n- Thời gian: 10/12/2024\n- Địa điểm: Hội trường I\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8mQe2hF_7zYpB4vNk6t1X9sJ3_KoL5rMxEw&s",
+    image: "https://i.ytimg.com/vi/kgTzVmvlQrY/maxresdefault.jpg",
     category: "community",
     status: "approved",
     createdBy: "U001",
@@ -308,7 +309,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia HỘI THẢO AI IN EDUCATION - TƯƠNG LAI GIÁO DỤC. Chi tiết sự kiện:\n- Thời gian: 22/01/2025\n- Địa điểm: Hội trường J\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3tY1k6ZgP_VlJ4fNx8yR2bK7M_5oE1nQrGw&s",
+      "https://caohoc.fpt.edu.vn/wp-content/uploads/2024/03/1920x1080px-thumbnail-web.png",
     category: "academic",
     status: "approved",
     createdBy: "U001",
@@ -327,7 +328,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia FESTIVAL ẨM THỰC TASTE OF VIETNAM. Chi tiết sự kiện:\n- Thời gian: 08/03/2025\n- Địa điểm: Hội trường K\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZm4V7pY8_NkL3fWx5rH2jB6tE_8oP9zMcAw&s",
+      "https://i.pinimg.com/736x/93/ad/ea/93adeae4837e22c3a492324a4b7fb98e.jpg",
     category: "cultural",
     status: "approved",
     createdBy: "U001",
@@ -346,7 +347,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia GIẢI MARATHON RUN FOR HEALTH 2025. Chi tiết sự kiện:\n- Thời gian: 16/02/2025\n- Địa điểm: Sân vận động UEL\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7pQ4_VkL8mY5fNx2jB9tK6rE1_3oR7zPxFw&s",
+      "https://file.hstatic.net/200000563747/file/-tet-run-mien-nam-2025-t1_e9e3cb9829114e519085c9e77d83a66c_grande.png",
     category: "sport",
     status: "approved",
     createdBy: "U001",
@@ -365,7 +366,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia SEMINAR STARTUP ECOSYSTEM IN VIETNAM. Chi tiết sự kiện:\n- Thời gian: 30/01/2025\n- Địa điểm: Hội trường L\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5V8qL7_YkP2fNx4jH6tK9rE1_8oQ3zMxw&s",
+      "https://tse3.mm.bing.net/th/id/OIP.jmxSxVDSgghzDMfyArD84gHaDv?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     category: "academic",
     status: "approved",
     createdBy: "U001",
