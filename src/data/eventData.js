@@ -174,7 +174,7 @@ export const eventData = [
     emailTemplate:
       "Kính chào Anh/Chị,\n\nChúng tôi xin gửi lời cảm ơn và xác nhận đăng ký tham gia GIẢI BÓNG ĐÁ UEL CUP 2025. Chi tiết sự kiện:\n- Thời gian: 15/03/2025\n- Địa điểm: Sân vận động UEL\n\nVui lòng có mặt đúng giờ.\n\nTrân trọng!",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHE-Q7V4Q4oZg8wA_hNsT8fOvl0-vJHsVlQ&s",
+      "https://scontent.fsgn21-1.fna.fbcdn.net/v/t39.30808-6/500089850_1207570287822997_2700129082110896156_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHm5VJcAwRaOaeXIRHmUxvYg5nY-SrVj9GDmdj5KtWP0QNrS3nkoOBvIB0TR9roT4C-YaEqvBwNxAGJGUGXYMbT&_nc_ohc=QM1xgMTVVocQ7kNvwHwo6G_&_nc_oc=AdnRBjvC5IM18C_YKGND1Drdw_gjsTBaTsd8dy8D5dL1RxxffxHyRSMWefFDlQOryuSbKEZngRCC6Oga4oWaR6Pd&_nc_zt=23&_nc_ht=scontent.fsgn21-1.fna&_nc_gid=negI1n0pLtxlMJUGJnwlHQ&oh=00_AfTQXvDUf9Reea23fZN5XXu48_utvkKipW-gRKHG3KlGJA&oe=6876F81A",
     category: "sport",
     status: "approved",
     createdBy: "U002",
